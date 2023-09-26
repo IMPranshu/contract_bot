@@ -43,5 +43,3 @@ bot.on("callback_query", (ctx) => {
 });
 
 bot.launch();
-
-("https://api.etherscan.io/api?module=contract&action=getabi&address=0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413&apikey=FTMID66TF8UJ4U3N9TUEVFT4C685WZAH3V");
